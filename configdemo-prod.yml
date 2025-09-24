@@ -1,0 +1,5 @@
+build:
+  id: 3333
+  version: 11.11.11
+  name: "Prod-Git-MyApplication"
+  type: "Git production Environment for MyApplication"
