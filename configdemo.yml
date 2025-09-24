@@ -1,5 +1,5 @@
 build:
   id: 101010
   version: 9.9.9
-  name: "Dev-Git-MyApplication"
-  type: "Git Development Environment for MyApplication"
+  name: "Default-Git-MyApplication"
+  type: "Git Default Environment for MyApplication"
