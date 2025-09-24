@@ -1,1 +1,5 @@
-
+build:
+  id: 11111
+  version: 19.19.19
+  name: "Dev-Git-MyApplication"
+  type: "Git Development Environment for MyApplication"
