@@ -1,5 +1,5 @@
 build:
-  id: 101010
-  version: 192.192.192
+  id: 1101010
+  version: 1192.1921.1912
   name: "Default-Git-MyApplication"
   type: "Git Default Environment for MyApplication"
