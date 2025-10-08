@@ -1,5 +1,5 @@
 build:
   id: 1101010
-  version: 1.2.3
-  name: "Default-Git-MyApplication"
+  version: 1.22.322
+  name: "Default-Gittt-MyApplication"
   type: "Git Default Environment for MyApplication"
