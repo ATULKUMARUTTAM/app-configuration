@@ -1,5 +1,5 @@
 build:
   id: 123456
-  version: 115.115.115
+  version: 116.116.116
   name: "Prod-Git-MyApplication-Updated"
   type: "Git My production Environment for MyApplication"
